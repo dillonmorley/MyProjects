@@ -18,6 +18,8 @@ Project that focuses on analyzing the different items that purchased at differen
 ## Open Source Data Analysis User Guide
 This is the user guide from my final capstone project. The idea behind this project was to identify an open source data tool and document how to use the different features within your tool. My group chose to analyze USAFacts.org, specifically the Government Finances section and detailed how to use this open source tool. The goal of this project is to make it easier for future UMD iSchool and journalism students conduct research using open source data tools.
 
+## Supervised Machine Learning Competition:
+Code to show my supervised machine learning algorithm that I created as part of my class competition. The goal was to create an algorithm that could classify a movie review as negative or positive. Using TF-IDF weighting and a LinearSVC model, I acheived an accuracy score of .89840 and placed top three overall in the competition.
 
 # Design Projects:
 
